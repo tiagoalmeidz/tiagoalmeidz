@@ -2,7 +2,7 @@
 
 <h5> 👨🏻‍💻 &nbsp;About Me </h5>
 
-- 🎓 &nbsp; I have a post-graduate degree in software engineering, with more than 9 years of experience, working as a full stack and in the last few years specializing in front-end.
+- 🎓 &nbsp; I have a post-graduate degree in software engineering, with more than 10 years of experience, working as a full stack and in the last few years specializing in front-end.
 
 <h5> 🛠 &nbsp;Tech Stack</h5>
 
